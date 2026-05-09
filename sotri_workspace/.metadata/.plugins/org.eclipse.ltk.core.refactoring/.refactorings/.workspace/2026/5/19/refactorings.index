@@ -2,3 +2,7 @@
 1778285068398	Rename resource 'test_project'
 1778285077596	Delete resource 'sotri-tp0_01-stm32_project/test_project Debug.launch'
 1778285087229	Delete resource 'sotri-tp0_01-stm32_project/Debug'
+1778286317721	Delete resource 'ssotri-tp0_02-semihosting/Debug'
+1778287399692	Rename resource 'ssotri-tp0_02-semihosting'
+1778287408482	Delete resource 'sotri-tp0_02-semihosting/Debug'
+1778287438196	Delete resource 'sotri-tp0_03-application/Debug'

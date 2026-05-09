@@ -223,3 +223,12 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-05-08 21:14:11.946
 !MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-05-08 21:21:58.328
+!MESSAGE Indexed 'ssotri-tp0_02-semihosting' (34 sources, 143 headers) in 5.97 sec: 15,374 declarations; 72,443 references; 7 unresolved inclusions; 1,242 syntax errors; 1,621 unresolved names (1.8%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-05-08 21:43:01.874
+!MESSAGE Indexed 'sotri-tp0_03-application' (33 sources, 119 headers) in 6.58 sec: 14,171 declarations; 71,037 references; 8 unresolved inclusions; 1,242 syntax errors; 1,619 unresolved names (1.9%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-05-08 21:43:20.259
+!MESSAGE Indexed 'sotri-tp0_02-semihosting' (0 sources, 0 headers) in 0 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)

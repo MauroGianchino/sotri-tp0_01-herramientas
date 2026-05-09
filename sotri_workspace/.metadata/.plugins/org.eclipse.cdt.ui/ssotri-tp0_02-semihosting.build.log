@@ -1,0 +1,10 @@
+21:41:53 **** Incremental Build of configuration Debug for project ssotri-tp0_02-semihosting ****
+make -j6 all 
+arm-none-eabi-size  ssotri-tp0_02-semihosting.elf 
+   text	   data	    bss	    dec	    hex	filename
+  22240	    116	  18532	  40888	   9fb8	ssotri-tp0_02-semihosting.elf
+Finished building: default.size.stdout
+ 
+
+21:41:54 Build Finished. 0 errors, 0 warnings. (took 746ms)
+
